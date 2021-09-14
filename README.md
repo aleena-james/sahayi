@@ -45,9 +45,9 @@ To make ths project works, you need to have flutter SDK installed. [***Install F
 🚶
 [Brief walkthrough our project]()
 
-### Partners
+### Libraries used
 - cupertino_icons: ^1.0.2
-- sawo: ^0.1.2
+- sawo: ^0.1.2 [link](https://docs.sawolabs.com/sawo/flutter)
 - flutter_lints: ^1.0.0
 - flutter_svg: [link](https://pub.dev/packages/flutter_svg)
 - Pub.dev (extras) : [link](https://pub.dev/)
